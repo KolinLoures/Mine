@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="your_score">Your score</string>
+    <string name="enter_your_name">Enter your name</string>
+
+
+    <string name="key_name" translatable="false">preference_name</string>
+    <string name="result_key" translatable="false">preference_result</string>
+    <string name="result_name" translatable="false">name_result</string>
+
+    <string name="end">end</string>
+    <string name="new_game">new game</string>
+    <string name="retry">retry</string>
+    <string name="top">TOP</string>
+    <string name="check_correct">Check correct</string>
+    <string name="show_results">show results</string>
+</resources>
